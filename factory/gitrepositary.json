@@ -1,0 +1,9 @@
+{
+	"name": "gitrepositary",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0ba2367b-eb7e-44f9-8ba1-3369e022f9d7",
+		"tenantId": "65e98b82-8a0f-4fc6-8826-e7d3fe129a37"
+	}
+}
